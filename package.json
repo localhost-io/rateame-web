@@ -5,9 +5,12 @@
   "main": "index.js",
   "homepage": "http://localhost-io.github.io/rateame-web",
   "scripts": {
-    "deploy": "gh-pages -d web-build"
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
