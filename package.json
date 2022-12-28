@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "http://localhost-io.github.io/rateame-mobile",
+  "homepage": "http://localhost-io.github.io/rateame-web",
   "scripts": {
     "deploy": "gh-pages -d web-build"
   },
