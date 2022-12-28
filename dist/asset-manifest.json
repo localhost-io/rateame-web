@@ -1,0 +1,34 @@
+{
+  "files": {
+    "app.js": "/rateame-mobile/static/js/app.989a7093.chunk.js",
+    "app.js.map": "/rateame-mobile/static/js/app.989a7093.chunk.js.map",
+    "runtime~app.js": "/rateame-mobile/static/js/runtime~app.6db42c21.js",
+    "runtime~app.js.map": "/rateame-mobile/static/js/runtime~app.6db42c21.js.map",
+    "static/js/2.76b71d58.chunk.js": "/rateame-mobile/static/js/2.76b71d58.chunk.js",
+    "static/js/2.76b71d58.chunk.js.map": "/rateame-mobile/static/js/2.76b71d58.chunk.js.map",
+    "fonts/AntDesign.ttf": "/rateame-mobile/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/rateame-mobile/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/rateame-mobile/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/rateame-mobile/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/rateame-mobile/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/rateame-mobile/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/rateame-mobile/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/rateame-mobile/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/rateame-mobile/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/rateame-mobile/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/rateame-mobile/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/rateame-mobile/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/rateame-mobile/favicon-16.png",
+    "favicon-32.png": "/rateame-mobile/favicon-32.png",
+    "favicon.ico": "/rateame-mobile/favicon.ico",
+    "index.html": "/rateame-mobile/index.html",
+    "manifest.json": "/rateame-mobile/manifest.json",
+    "serve.json": "/rateame-mobile/serve.json",
+    "static/js/2.76b71d58.chunk.js.LICENSE.txt": "/rateame-mobile/static/js/2.76b71d58.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.6db42c21.js",
+    "static/js/2.76b71d58.chunk.js",
+    "static/js/app.989a7093.chunk.js"
+  ]
+}
