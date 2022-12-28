@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/rateame-web/static/js/app.989a7093.chunk.js",
-    "app.js.map": "/rateame-web/static/js/app.989a7093.chunk.js.map",
+    "app.js": "/rateame-web/static/js/app.6a5e1491.chunk.js",
+    "app.js.map": "/rateame-web/static/js/app.6a5e1491.chunk.js.map",
     "runtime~app.js": "/rateame-web/static/js/runtime~app.9308c19f.js",
     "runtime~app.js.map": "/rateame-web/static/js/runtime~app.9308c19f.js.map",
     "static/js/2.ec4c090f.chunk.js": "/rateame-web/static/js/2.ec4c090f.chunk.js",
@@ -29,6 +29,6 @@
   "entrypoints": [
     "static/js/runtime~app.9308c19f.js",
     "static/js/2.ec4c090f.chunk.js",
-    "static/js/app.989a7093.chunk.js"
+    "static/js/app.6a5e1491.chunk.js"
   ]
 }
